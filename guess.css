@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+.p1{
+    float: left;
+    
+    position: relative;
+    left: 500px;
+    top : 140px;
+     }
+    
+     .p1 button{
+        height: 65px;
+        width: 100px;
+        background-color: red;
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+     }
+
+     
+
+
+
+.p1 input{
+    height: 55px;
+    width: 300px;
+    font-size: 25px;
+    font-weight: bold;
+   
+    
+}
+
+
+
+p{
+    color: white;
+    position: relative;
+    
+   margin-left: 550px;
+    top: 260px;
+    font-size: 30px;
+    font-weight: bold;
+}
